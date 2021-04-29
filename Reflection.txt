@@ -1,0 +1,14 @@
+I/we declare that the attached assignment is my/our own work in accordance with Seneca
+Academic Policy. No part of this assignment has been copied manually or electronically from any
+other source (including web sites) or distributed to other students.
+=====================================================================================================
+Name(s) Mahshid Farrahinia  Student ID(s) 144091196
+=====================================================================================================
+First of all I created a class to write  and test 4 methods through Junit named: lengthTest,charAtTest, substringTest and indexOfTest.
+At first I add @before annotation to run before each test and put exception to handle exceptions 
+then for running the test unit I add @test annotation before each methods and use assert and assertThat methods to compare values and check methods.
+After that I copy source code in to my package and complete two methods to obtain minimum integer and minimum positive double grater than 0.
+There are 3 other methods in that class which calculate the rayleight, sort a list descending and target a list to find number of matches with string.
+Then i create another class to test all these methods. For checking these method I gave value to methods and obtained correct value by myself then compare two value 
+through Junit methods (assert, assertThat) to find out the correctness of methods.
+
